@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A frutefull worke of Lucius Anneus Seneca named the forme and rule of honest lyuynge bothe in the Latin tongue [and] in the Englyshe lately tra[n]slated by Robert Whyttynton Poet Laureate and now newlye imprynted.</title>
+            <title>Formula vitae honestae. English</title>
+            <author>Martin, of Braga, Saint, ca. 515-579 or 80.</author>
+         </titleStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A07098</idno><idno type="EEBO-CITATION">99845551</idno>
+  <idno type="VID">10456</idno>
+  <idno type="EEBO-PROQUEST">2240897727</idno>
+  <idno type="STC">STC 17501</idno>
+  <idno type="STC">ESTC S109917</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99845551e"/>
+            <note>(EEBO-TCP ; phase 2, no. A07098)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 10456)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 56:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A frutefull worke of Lucius Anneus Seneca named the forme and rule of honest lyuynge bothe in the Latin tongue [and] in the Englyshe lately tra[n]slated by Robert Whyttynton Poet Laureate and now newlye imprynted.</title>
+                  <title>Formula vitae honestae. English</title>
+                  <author>Martin, of Braga, Saint, ca. 515-579 or 80.</author>
+                  <author>Seneca, Lucius Annaeus, ca. 4 B.C.-65 A.D., attributed name.</author>
+                  <author>Whittington, Robert, d. ca. 1560.</author>
+               </titleStmt>
+               <extent>[56] p.   </extent>
+               <publicationStmt>
+                  <publisher>In Fletestrete at the sygne of the George nexte to saynt Dunstons church by Wyllyam Myddylton,</publisher>
+                  <pubPlace>[At London :</pubPlace>
+                  <date>In the yere of our Lorde. M.CCCCC.XLVI. [1546] The. xxi. daye of Julye]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In fact a translation of "Formula vitae honestae" by Saint Martinus, possibly based on a lost work by Seneca.</note>
+                  <note>Latin and English on facing pages.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signatures: A-C D⁴.</note>
+                  <note>Reproduction of the original the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Conduct of life --  Early works to 1900.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:10456:1"/>
+            <pb facs="tcp:10456:1"/>
+            <p>❧ <hi>A FRV<g ref="char:EOLhyphen"/>tefull</hi> worke of <hi>Lucius Anneus Seneca named the for<g ref="char:EOLhyphen"/>me</hi> and Rule of Honest lyuynge bothe in the Latin tongue &amp; in the Englyshe lately trā slated by Robert whyt tynton Poet Lau reate And now newlye im<g ref="char:EOLhyphen"/>prynted.</p>
+         </div>
+      </front>
+      <body>
+         <div xml:lang="lat" type="treatise">
+            <pb facs="tcp:10456:2"/>
+            <p>
+               <seg rend="decorInit">Q</seg>Vattuor virtutū spe<g ref="char:EOLhyphen"/>cies multorum sapien<g ref="char:EOLhyphen"/>tum sententiis distini<g ref="char:EOLhyphen"/>tae sūt, quibus animus humanus compont ad honestatem vitae possit, Harum pri<g ref="char:EOLhyphen"/>ma est Prudentia, Secūda Magna<g ref="char:EOLhyphen"/>nimitas, Tercia Continētia, Quar<g ref="char:EOLhyphen"/>ta Iusticia, Singula tibi his officiis quae subsunt, anexae sunt virtutes, ac bene moratum efficiunt virum.</p>
+            <div type="part">
+               <head>¶ De Prudentia.</head>
+               <p>
+                  <seg rend="decorInit">Q</seg>Visquis ergo Prudentiam sequi desiderat, tunc per rationem, et recte viuet, et si oīa existimet, et {pre} pē<g ref="char:EOLhyphen"/>set: et dignitate rebus, non ex opi<g ref="char:EOLhyphen"/>nione multorum: sed ex earum na<g ref="char:EOLhyphen"/>tura constituat.</p>
+               <p>Nam scire debes, quia sunt que
+<pb facs="tcp:10456:3"/>videantur esse bona: et non sunt et sunt que videantur non bona esse: et sunt.</p>
+               <p>Quecunque ex rebus transitoriis possides: non mireris, nec mag<g ref="char:EOLhyphen"/>num existimes, quod caducum est.</p>
+               <p>Nec apud te que habes: tanquam aliena <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eruabis, sed pro te tanquā tua dispenses, et vtaris.</p>
+               <p>Si prudentiam amplecteris: vbi<g ref="char:EOLhyphen"/>que idem eris: et prout rerum, ac temporum varietas exigit: ita te accomodes ipsi: nec te in aliquibus mutes, sed potuis aptes, sicut ma<g ref="char:EOLhyphen"/>nus, que eadem est: cum in palmain extenditur, et cum in pugnam cor<g ref="char:EOLhyphen"/>trahitur.</p>
+               <p>Prudentis proprium est examina<g ref="char:EOLhyphen"/>te consilia, et non cito facili cre<g ref="char:EOLhyphen"/>dulitate
+<pb facs="tcp:10456:4"/>prolabi, ad falsa prolabi.</p>
+               <p>De dublis ne definias: sed suspen<g ref="char:EOLhyphen"/>sam tene senteniiam.</p>
+               <p>Nihil inexpertum affirmes: quia non omne verisimile, statim verum est sicut et saepius quod primum in credibile videtur, non continuo falsum est.</p>
+               <p>Crebro siquidem faciem menda<g ref="char:EOLhyphen"/>tii veritas: Crebro mendatium spe cie veritatis obcluditur.</p>
+               <p>Nam sicut aliquando tristem fron<g ref="char:EOLhyphen"/>tem amicus et blandam adulatu<g ref="char:EOLhyphen"/>ostendit, sicut veri similitudine co<g ref="char:EOLhyphen"/>loratur veritas, et vi fallat, vel sur ripiat, coloratur. Si prudens esse cupis, in futura prospectum inten<g ref="char:EOLhyphen"/>de, et quae possunt contingere, ani<g ref="char:EOLhyphen"/>mo tuo propone.</p>
+               <pb facs="tcp:10456:5"/>
+               <p> Nihil tibi sit subitum sed totum ante conspices.</p>
+               <p>Nam qui prudens est, non dicit nō putaui quidem hoc tieri, quia non dubitat, sed spectat: nec suspicatur, sed cauet.</p>
+               <p>Cuiuscunque facte causam inqui<g ref="char:EOLhyphen"/>re, cum initia rerum inueneris, ex<g ref="char:EOLhyphen"/>itus cogitabis.</p>
+               <p>Scitote in quibusdam debere per<g ref="char:EOLhyphen"/>senerare, que concepisti, quibus<g ref="char:EOLhyphen"/>dam vero nec incipere in quibus perseuerare sit noxium.</p>
+               <p>Prudens fallere non vult, fallere non potest.</p>
+               <p>Bonū est etiam in morte neminem fallere.</p>
+               <p>Opiniones tue iudicia sint.</p>
+               <p>Cagitaciones vagas et velut som<g ref="char:EOLhyphen"/>nia similes non recipies, quibu<g ref="char:EOLhyphen"/>si
+<pb facs="tcp:10456:6"/>animus tuus oblectauerit cum omnia disposueris, tristis rema<g ref="char:EOLhyphen"/>nebis, sed cogitatio tua stabilis et certa sit, sine deliberet: sine quae<g ref="char:EOLhyphen"/>ret, contempletur, non recedat a vero.</p>
+               <p>Sermo quo{que} tuus non sit inanis. Sed aut suadeat, aut moneat, aut consoletur, aut precipuat. Laud<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> parce, vituper a partius.</p>
+               <p>Nam similiter reprehensibilis est nimia laudatio, vt immoderata vituperatio illa siquidem adulati<g ref="char:EOLhyphen"/>one: ista malignitate suspecta est.</p>
+               <p>Testimonium veritati non amici<g ref="char:EOLhyphen"/>ciae reddat.</p>
+               <p>Cum cōsideratione promittas ple<g ref="char:EOLhyphen"/>nius quam promiseris presta.</p>
+               <p>Si prudens est animus tuus: tri<g ref="char:EOLhyphen"/>bus temporibus dispensetur, prae<g ref="char:EOLhyphen"/>sentia
+<pb facs="tcp:10456:7"/>ordina: paeterita recorda re: futura prouide.</p>
+               <p>Nam qui nil de preterito cogitat: perdet vitam, qui nil de futuro pre mediratur: in omnia in cautus in<g ref="char:EOLhyphen"/>cidit.</p>
+               <p>Proponas in animo tuo futura ma<g ref="char:EOLhyphen"/>la et bona, vt illa sustinere possis: et ista moderare.</p>
+               <p>Nam semper in actu sis: sed inter<g ref="char:EOLhyphen"/>dumanimo tuo requiem dato: et re quies illa plena sit sapienciae, stu<g ref="char:EOLhyphen"/>diis: et cogitationibus bonis.</p>
+               <p>Nan prudens nunquam ocio mar<g ref="char:EOLhyphen"/>cet: habet autem aliquando re<g ref="char:EOLhyphen"/>missum animum: nunquam solu<g ref="char:EOLhyphen"/>tum accelerat tarda: perplexa ex<g ref="char:EOLhyphen"/>pedit: dura mollit, aequat ardua,
+<pb facs="tcp:10456:8"/>scit enim quid qua via aggredi de<g ref="char:EOLhyphen"/>beat: et cito singula, et distincte cuncta videt.</p>
+               <p>Consilium peritorum ex apertis obscura extimat: ex peruulis mag<g ref="char:EOLhyphen"/>na: ex proximis remota: ex parti<g ref="char:EOLhyphen"/>bus tota.</p>
+               <p>Non te moueat dicentis auctho<g ref="char:EOLhyphen"/>ritas: nee quis: sed quid dicat in<g ref="char:EOLhyphen"/>tendito.</p>
+               <p>Nec quam multis, sed quibuslibet placeas cogita.</p>
+               <p>Id quere, quod inuenire potes.</p>
+               <p>Id disce, quod potes scire.</p>
+               <p>Id opta, quod coram bonis op<g ref="char:EOLhyphen"/>tari
+<pb facs="tcp:10456:9"/>potest.</p>
+               <p>Nec altiori te rei imponas: in quo tibi stanti, tremendum: ascenden<g ref="char:EOLhyphen"/>ti cadendum sit.</p>
+               <p>Consilia tibi salutifera, aduoca.</p>
+               <p>Cum tibi alludit vitae prosperitas tunc te velut in lubrico retinebis: ac sistes: nec tibi dabis impedus li<g ref="char:EOLhyphen"/>beros: sed circumspicies, quo eun<g ref="char:EOLhyphen"/>dum sit, vel quousque.</p>
+            </div>
+            <div type="part">
+               <head>¶ De magnanimitate et fortitudine.</head>
+               <p>MAgnanimitas, quae et forti<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tudo dicitur: si insit animo tuo, cum magna fiducia viue, liber intrepidus: alacer.</p>
+               <p>Magnanimi hominis est: non vs
+<pb facs="tcp:10456:10"/>cillare: conflare sibi: et finem vitae intrepidus expectare.</p>
+               <p>Nil aliud magnum in rebus huma<g ref="char:EOLhyphen"/>nis: nisi animus magna despiciēs.</p>
+               <p>Si magnanimus fueris: nunquam indicabis tibi contumeliam fieri: de inimico dices, non nocuit mihi: sed animum nocendi habuit, et cum illum in potestate tua vide<g ref="char:EOLhyphen"/>ris: vindictam putabis vindicare potuisse.</p>
+               <p>Scito enim honestum est magnum genus vindictae esse: ignoscere.</p>
+               <p>Neminem susurro appetas, nemi<g ref="char:EOLhyphen"/>nem odeas, palam aggredere, non geres conflictum nisi in dixeris, nam fraudes, et dolos, imbecillum decet habere.</p>
+               <pb facs="tcp:10456:11"/>
+               <p> Eris magnauimus, si pericula nec appetas, vt temerarius, nec formi<g ref="char:EOLhyphen"/>des, vt timidus.</p>
+               <p>Nam nil timidū facit animum nisi reprehensibilis, vitae conscientia.</p>
+               <p>Mensura ergo magnanimitatis est nec timidum esse hominem nec au<g ref="char:EOLhyphen"/>dacem.</p>
+            </div>
+            <div type="part">
+               <head>¶ De Continentia.</head>
+               <p>COntinentiam vero si diligis, circuncide superslua: et in a<g ref="char:EOLhyphen"/>nimum desideria tua constringe. Considera tecum, quantum na<g ref="char:EOLhyphen"/>tura poscat, et non quantum cupi<g ref="char:EOLhyphen"/>ditas expirat.</p>
+               <p>Si continens fueris, eo vsque per<g ref="char:EOLhyphen"/>ueneris, vt teipso contentus sit. Nam qui sibi ipsi satis est? cum di<g ref="char:EOLhyphen"/>uitiis natus est.</p>
+               <pb facs="tcp:10456:12"/>
+               <p> Impone concupiscentiae tuae frenum et modum.</p>
+               <p>Quae occulta voluptate animum trahunt retice.</p>
+               <p>Ede citra cruditatem.</p>
+               <p>Bibe citra ebrietatem.</p>
+               <p>Obserua, ne in conuiuio, aut qua libet vitae communitate, quos non imitaberis dampnare videatis.</p>
+               <p>Nec praelentibus delici<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s inherebis nec desyderabis absentes.</p>
+               <p>Victus tibi ex te facili sit, nec ad voluptatem sed ad cibum accede.</p>
+               <p>Palatum tuum fames excitet, non sapores.</p>
+               <p>Desideria tua paruo redime, quia haec tantum curare debes vt de<g ref="char:EOLhyphen"/>sinant arque quasi ad exemplar compositus diuinum a corpore
+<pb facs="tcp:10456:13"/>ad spiritum quātum potes, te festi<g ref="char:EOLhyphen"/>na reducere.</p>
+               <p>Si continentiae studes habita non amenae, sed salubriter. Nec domi<g ref="char:EOLhyphen"/>num notum esse velis a domo, sed domum a domino.</p>
+               <p>Non tibi ascribas, quod non eris nec quod es, nec maius quam es vi dere velis.</p>
+               <p>Hoc masus obserua, ne paupertas tibi immunda sit, nec persimo<g ref="char:EOLhyphen"/>nia, sordida, nec simplicitas ne<g ref="char:EOLhyphen"/>glecta, nec leuitas languida, et si res tibi exiguae sunt, non tamen sint angustae.</p>
+               <p>Nec tua defleas, nec aliena mi<g ref="char:EOLhyphen"/>reris.</p>
+               <p>Si continentiam diligis, turpia
+<pb facs="tcp:10456:14"/>fugito, antequā accedat, nec quen<g ref="char:EOLhyphen"/>quā alium vereberis plus quā te.</p>
+               <p>Omnia tolerabila, preter turpidi<g ref="char:EOLhyphen"/>nem crede.</p>
+               <p>A verbis quoque turpibus absti<g ref="char:EOLhyphen"/>neto, quia eorum licentia impru<g ref="char:EOLhyphen"/>dentiam nutrit.</p>
+               <p>Sermones vtiles, magis quam fa<g ref="char:EOLhyphen"/>cetos et amabiles ama, rectos po<g ref="char:EOLhyphen"/>tius, quam obsecundantes.</p>
+               <p>Miscebis interdum seriis iocos sed temperatos et sine detrimēto dig<g ref="char:EOLhyphen"/>nitatis, et verecundiae▪ Nam repre<g ref="char:EOLhyphen"/>hensibilis risus est: si immodicus: si pueriliter, effusus, si muliebri<g ref="char:EOLhyphen"/>ter fatuus.</p>
+               <p>Odibilem quoque hominem facit risus, aut superbus, aut clarus, aut malignus et furtiuus, aut alieni<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> malis euocatus.</p>
+               <p>Si ergo ipsos iocos exigis, ho<g ref="char:EOLhyphen"/>quo{que}
+<pb facs="tcp:10456:15"/>cum dignitate sapientiae ge<g ref="char:EOLhyphen"/>re, vt te non grauent tanquam as<g ref="char:EOLhyphen"/>perum, non contemnant vt vilem.</p>
+               <p>Non erit tibi scurrilitas, sed gra<g ref="char:EOLhyphen"/>ta vrbanitas.</p>
+               <p>Sales tui sint sine dente, ioci sine vilitate, risus sine cachynno vox sine clamore, Incessus sine tumul<g ref="char:EOLhyphen"/>tu. Quis es tibi non desidia erit, et cum ab aliis luditur, tu sancti ali<g ref="char:EOLhyphen"/>quid hosti{que} tractaueris.</p>
+               <p>Si continens es, adulationes e<g ref="char:EOLhyphen"/>uita. Sit{que} tibi tam triste, lauda<g ref="char:EOLhyphen"/>re a turpibus, quam si laudaueris ob turpia.</p>
+               <p>Letior esto quoties displices ma<g ref="char:EOLhyphen"/>lis, et malorum de te estimatio<g ref="char:EOLhyphen"/>nes malas veram laudationem tui
+<pb facs="tcp:10456:16"/>scribe.</p>
+               <p>Di ticilium continentiae opus est, asse tationem adulationem repel<g ref="char:EOLhyphen"/>lere, quam sermones animum vo<g ref="char:EOLhyphen"/>luptate resoluont.</p>
+               <p>Nullus per assentationem, amici<g ref="char:EOLhyphen"/>ci<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m merearis, nec ad tuam pro<g ref="char:EOLhyphen"/>merēdam pet hanc aditum pendas.</p>
+               <p>Non eris audax, nec arrogans, sub mittes te, uon proiiciis grauitate seruata.</p>
+               <p>Admoneberis libenter, et repre<g ref="char:EOLhyphen"/>henderis patienter.</p>
+               <p>Si te merito obiurgabit aliquis scito, quis profuit.</p>
+               <p>Sui immerito, scito, quia prodesse voluit.</p>
+               <p>Nam acerba, sed blanda timebis verba.</p>
+               <p>Esto viciorum fugax ipse alio<g ref="char:EOLhyphen"/>tum neque curiosus scrutator,
+<pb facs="tcp:10456:17"/>neque acerbus reprehensor, sed sine reprobatione correptor. Ita vt admonitionem hilaritate pre<g ref="char:EOLhyphen"/>uenias, et errori veniam facile da<g ref="char:EOLhyphen"/>to, nec extollas quendam, neque dencias.</p>
+               <p>Dicentium esto tacitus auditor, promptus receptor.</p>
+               <p>Requitenti facile responde, con<g ref="char:EOLhyphen"/>t<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mnenti facile crede, ne iurgia discertationis defendas.</p>
+               <p>Si continens es animi tui motus corporis que obserua, ne indecori fuit, nec illos ideo cōtemnas, quia latent, nam nil differt, si nemo vi<g ref="char:EOLhyphen"/>deat, cum tu ipse illos videas.</p>
+               <pb facs="tcp:10456:18"/>
+               <p> Mobilis esto, non bonis constan<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> non pertinax, alicuius nec conci<g ref="char:EOLhyphen"/>entiam habere, nec ignotum sit nec molestum.</p>
+               <p>Omnes tibi pares foueas: infe<g ref="char:EOLhyphen"/>riores superbiendo non cotemnes, Superiores recte viuendo, ne relicias.</p>
+               <p>In reddendis officiis neque negli<g ref="char:EOLhyphen"/>gens: neque exactor appareas.</p>
+               <p>Cunctis esto benignus: nemini blā<g ref="char:EOLhyphen"/>dus: paucis familiaris, omnibus aequus.</p>
+               <p>Seuetior esto in iudicio, quam ser<g ref="char:EOLhyphen"/>mone: vita quam vultu, cultor cle<g ref="char:EOLhyphen"/>mentiae, detestator seuiciae. Bonae famae neque tuae seminator: neque alienae inuidus.</p>
+               <pb facs="tcp:10456:19"/>
+               <p> Rumoribus, criminibus, suspici<g ref="char:EOLhyphen"/>onibus, minime credulus, vel ma<g ref="char:EOLhyphen"/>lignus, ad iram tardus, ad mise<g ref="char:EOLhyphen"/>ricordiam, pronus.</p>
+               <p>In aduersis firmus.</p>
+               <p>In prosperis cautus, et humilis, occultator virtutum, sicut alii vi<g ref="char:EOLhyphen"/>ciorum.</p>
+               <p>Vanae gloriae contemptor, et bo<g ref="char:EOLhyphen"/>norum quibus preditus es, non a<g ref="char:EOLhyphen"/>cerbus exactor.</p>
+               <p>Nullius imprudentiam despicias: tere sermonis ipse: sed loquentium patiens.</p>
+               <p>Seuerus, non saeuus, sed hylarem non spernens.</p>
+               <p>Sapientiae cupidus et docilis.</p>
+               <p>Homines cum docent discunt.</p>
+               <p>Que nosti, sine arrogantia pos<g ref="char:EOLhyphen"/>tulanti
+<pb facs="tcp:10456:20"/>imparties.</p>
+               <p>Que nescis sine occultationis igno rantiae, tibi postula impartiri.</p>
+               <p>Non conturbabit sapiens mores publicos: nec populum in se, noui<g ref="char:EOLhyphen"/>tate vitae conuertet.</p>
+            </div>
+            <div type="part">
+               <head>¶ De Iusticia.</head>
+               <p>QVid est iusticia? nisi naturae tacita connentio in adiuto<g ref="char:EOLhyphen"/>rium multorum inuentae. Et quid est iusticia? nisi nostri animi consti<g ref="char:EOLhyphen"/>tuto. Sed est lex diuina, et vincu<g ref="char:EOLhyphen"/>lum secretis humanae.</p>
+               <p>In hac non est, quod destimemus quid expediat: expedit tibi quic<g ref="char:EOLhyphen"/>quid illa dictauerit.</p>
+               <p>Quisquis igitur hanc sectari de<g ref="char:EOLhyphen"/>sideras:
+<pb facs="tcp:10456:21"/>deum time prius et ama, et amaberis a deo.</p>
+               <p>Amabis enim deum: si in hoc illū imitaberis, vt velis omnibus pro<g ref="char:EOLhyphen"/>desse, nulli nocere.</p>
+               <p>Et tunc te iustum virum appella<g ref="char:EOLhyphen"/>bunt: omnes sequenter: venerabū tur et diligent.</p>
+               <p>Iustus enim vt sis, non solum non nocebis: sed etiam nocentes pro<g ref="char:EOLhyphen"/>hibebis, nam nil nocere non est iu<g ref="char:EOLhyphen"/>sticia: sed obstinentia alieni est.</p>
+               <p>Ab his ergo incipe, vt nō auferras: vt ad maiora proueharis et aliis ablata restituas.</p>
+               <p>Raptores que ipsos, ne aliis ti<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mendi sint: castiga, et cohibe.</p>
+               <pb facs="tcp:10456:22"/>
+               <p> Ex nulla vocis ambiguitate con<g ref="char:EOLhyphen"/>trouersiam nectes: sed animi qua<g ref="char:EOLhyphen"/>litatem speculare.</p>
+               <p>Nihil tibi intersit, an fermes: an vites.</p>
+               <p>De fide et religione scias age vbi<g ref="char:EOLhyphen"/>cunque de veritate tractatur.</p>
+               <p>Nam si iure iurando deus inuoce<g ref="char:EOLhyphen"/>tur: et non inuocanti testis est: ta<g ref="char:EOLhyphen"/>men non transies veritatem, ne iu<g ref="char:EOLhyphen"/>sticiae transeas legem.</p>
+               <p>Quod si aliquando coertis vti mendatio: vtere non ad falsi, sed adueri custodiam.</p>
+               <p>Et si contigerit fidelitatem men<g ref="char:EOLhyphen"/>dacio redemi: non mencieris, sed potius excusaberis quia vbi hone<g ref="char:EOLhyphen"/>sta causa ē: iustus secrata nō pro<g ref="char:EOLhyphen"/>dit: tacenda enim tacet, loquenda
+<pb facs="tcp:10456:23"/>loquitur, atque illi apperta, et secura tranquillitas, vt dum alii vincantur a malis vincantur ab il<g ref="char:EOLhyphen"/>lo malo.</p>
+               <p>Hec ergo si fludere curaueris: lae<g ref="char:EOLhyphen"/>tus, et intrepibus tui finē expectes</p>
+               <p>Prospiciens haec, tristicia tumul<g ref="char:EOLhyphen"/>tuosa hilaris: quietus: strennuus: ac securus permanebis.</p>
+            </div>
+            <div type="part">
+               <head>¶ De mēsura et moderatione Prudentiae.</head>
+               <p>HIS ergo institutionibus ob<g ref="char:EOLunhyphen"/>seruatis: quattuor virtutum species te facient virum, si mensu<g ref="char:EOLhyphen"/>ram rectitudinis earum aequo vi<g ref="char:EOLhyphen"/>uendi sine sernaueris.</p>
+               <p>Nam si prudentia terminos suos excedat: callida et pauida com<g ref="char:EOLhyphen"/>miseris,
+<pb facs="tcp:10456:24"/>inuestigator latentium et scrutator qualiumcunque nexa<g ref="char:EOLhyphen"/>rum ostenderis, notaberis timi<g ref="char:EOLhyphen"/>dus: suspiciosus: attentus.</p>
+               <p>S<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mper aliquid quaerens: semper aliquid times: semper aliquid du<g ref="char:EOLhyphen"/>bitans, et subtilistimas suspiciones suas ad animi tui apprehensionem impingas, monstraberis digito as<g ref="char:EOLhyphen"/>tucia pienus.</p>
+               <p>Versi pellis: et simplicitatis ini<g ref="char:EOLhyphen"/>micus: contemplator que culpa<g ref="char:EOLhyphen"/>rum et postremo vno nomine vo<g ref="char:EOLhyphen"/>caberis a cunctis, malis homo.</p>
+               <p>In has ergo maculas prudētia im<g ref="char:EOLhyphen"/>moderata perducet, quicunque in illa mediocri lance persistit: nec obtusum aliquid in se habeat: nec versurum.</p>
+               <pb facs="tcp:10456:25"/>
+               <p> De moderatione fortitudinis.</p>
+               <p>Magnanimitas si se extra modum suum extollat, faciet virum mi<g ref="char:EOLhyphen"/>nacem.</p>
+               <p>Inflatum, turbidum inquietum et in quascunque excellentias ducto<g ref="char:EOLunhyphen"/>rum actorum neglecta honestate festinum, qui momentis omnibus supersilis surrigens vt bestiam: nam quieta excitat, alium ferit, alium fugat.</p>
+               <p>Sed quamuis audax sit impugn<g ref="char:EOLhyphen"/>tor: tamen multa extra se valentia ferre non poterit, sed aut miserum appetit finem aut eorum.</p>
+               <p>Mensura ergo magnanimitatis est nec timidum esse hominem nec au<g ref="char:EOLhyphen"/>dacem.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:10456:26"/>
+               <head>¶ De modo temporantiae.</head>
+               <p>COntinentia deinde his termi<g ref="char:EOLunhyphen"/>nis te astringat.</p>
+               <p>Caue ne parcus sis: ne suspiciose, et timide manum contrahas.</p>
+               <p>Ne in minimis quoque speculum ponas.</p>
+               <p>Nam talis, et tam intercisa vilis putabitur integritas.</p>
+               <p>Hac igitur mediocritatis linia, continentiam obseruabis, vt nec voluptati deditus, prodigus et luxuriosus appereas, uec auara tenacitate surdidus aut obscurus existas.</p>
+               <p>Qualiter sit moderanda iusticia.</p>
+               <p>Iusticia postremo eo medeocri<g ref="char:EOLhyphen"/>tatis
+<pb facs="tcp:10456:27"/>tibi itinere regenda est: vt nec ductu iugiter leui, immotam sem<g ref="char:EOLhyphen"/>per animi rationem negligentiam subsequantur.</p>
+               <p>Corrigendi curam geras: sed ne<g ref="char:EOLhyphen"/>que licentiam peccandi: aut allu<g ref="char:EOLhyphen"/>dentibus proterue permittas neque commisso nimia rigiditate, et aspe<g ref="char:EOLhyphen"/>ritate, nil veniae, aut benignitati reseruans.</p>
+               <p>Humanae societati durus appare<g ref="char:EOLhyphen"/>as. Ita ergo iusticiae regula tenen da est: vt reuerantia disciplinae eius, neque nimia cōminitate de<g ref="char:EOLhyphen"/>specta vilescat, neque seuiore a<g ref="char:EOLhyphen"/>trocitate duratae gratiam humanae amabilitatis amittat.</p>
+            </div>
+            <div type="part">
+               <head>¶ Premissorum finis et. peroratio.</head>
+               <pb facs="tcp:10456:28"/>
+               <p> SIQVIS ergo vitam suam<g ref="char:EOLhyphen"/>vtilitatem propriam non tan<g ref="char:EOLhyphen"/>tum pariat: sed multorum incul pabiliter componere desyderat, hanc praedictarum virtutum for<g ref="char:EOLhyphen"/>mulam pro qualitatibus temporum locorum, personarum, atque causa rum sequatur, eo mediocritatis in sistens, quo per abrupta intrisecus precipitia: aut ruenti cor<g ref="char:EOLhyphen"/>pori suo deuitet infa<g ref="char:EOLhyphen"/>mam: aut effi<g ref="char:EOLhyphen"/>cientem puniat insaniam. ☜: ☞</p>
+               <trailer>¶ FINIS.</trailer>
+            </div>
+         </div>
+         <div xml:lang="eng" type="treatise">
+            <pb facs="tcp:10456:2"/>
+            <p>
+               <seg rend="decorInit">F</seg>Oure kyndes of ver<g ref="char:EOLunhyphen"/>tues be defyned by y<seg rend="sup">e</seg> opiniōs of many wy<g ref="char:EOLhyphen"/>se men, by y<seg rend="sup">e</seg> whiche y<seg rend="sup">e</seg> mynde of mā may be set ī due fashion to honesty of th{is} lyfe. The fyrst of these is prudēs The seconde Magnanimite, or force. The thyrde is Tēperaūce The fourth Iustice. Al &amp; syngler vertues be annexed to these offy<g ref="char:EOLunhyphen"/>ces, which folowe here after and maketh a man well manered.</p>
+            <div type="part">
+               <head>¶ Of Prudens.</head>
+               <p>WHo so euer desyreth to fo<g ref="char:EOLhyphen"/>lowe prudēs: thā he shall lyue aff reason &amp; ryght wel. And though he pōder &amp; wey al thīg{is}, yet he must apoīt y<seg rend="sup">e</seg> dignite and iust prayse to thīg{is} nat after y<seg rend="sup">e</seg> cō<g ref="char:EOLunhyphen"/>mune opinion of many, but after theyr nature &amp; qualite. For thou
+<pb facs="tcp:10456:3"/>must knowe y<seg rend="sup">t</seg> there be thinges y<seg rend="sup">t</seg> seme to be good: &amp; be nat, &amp; there be thynges that semeth nat to be good, and yet they be good.</p>
+               <p>What so euer thou haste of these trāsytory goodes, prayse nat nor esteme it no gret treasure y<seg rend="sup">t</seg> is ca<g ref="char:EOLhyphen"/>suall, nor kepe nat y<seg rend="sup">t</seg> thou hast to thy selfe as other mens goodes, but dispose them, and vse them for thy selfe as thy owne.</p>
+               <p>Yf thou desire prudens y<seg rend="sup">u</seg> shalt be one maner of man at al tymes &amp; lyke as y<seg rend="sup">e</seg> chaūge of thynges &amp; times requireth: so apply thy self therto, nor chaūge nat thy self in any cōdicion: but rather cōfirme thy selfe, lyke thy hande whiche is one &amp; y<seg rend="sup">e</seg> same whā it is extende out into a palme, and whan it is closed: into a fyrste.</p>
+               <p>It is y<seg rend="sup">e</seg> {pro}party of a prudēt man
+<pb facs="tcp:10456:4"/>to proue counsell, and nat hastly by light credēs to slyp to fasshed Of doubtfull thynges, gyue no definition, but defer thy sentens Make no assurans of y<seg rend="sup">e</seg> thyng y<seg rend="sup">t</seg> thou knowest nat, for euery lyke lyhod is nat forthwith true, lyke wyse as y<seg rend="sup">t</seg> whichs apereth at the fyrst sight incredible, is nat forth with false. For ofte the truth cō<g ref="char:EOLhyphen"/>teyneth y<seg rend="sup">e</seg> lykelyhod of a lye, and oft vnder y<seg rend="sup">e</seg> colour of truth a lye is hyd. For lyke as at somtyme a frende sheweth a sad coūtenance &amp; a flatterer a inery, so truth is coloured with the lykelyhode of truthe, &amp; is coloured to thentent that he may deceyue or defraude Yf thou couet to be a prudēt mā cast before thyne eye thīg{is} y<seg rend="sup">t</seg> may come, &amp; haue regarde ī thy mynd thynges that may chaunce.</p>
+               <pb facs="tcp:10456:5"/>
+               <p> Let nothynge be sodeyn with y<seg rend="sup">e</seg>, but loke wel before vpon al {per}ses for he y<seg rend="sup">t</seg> is a prudent man sayeth nat. I thought that this wolde nat haue chaūced, for he douteth nat, but loketh surely, he dothe nat mystrust, but he doth auoide damage.</p>
+               <p>Seke out y<seg rend="sup">e</seg> cause of euery dede whan thou hast foūde the begyn nynge remembre the ende.</p>
+               <p>Knowe y<seg rend="sup">u</seg> that thou shuld {per}seuer in some thiges whiche thou hast begō, &amp; ī som thīges nat to begin wherin it is hurtful to cōtyn<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e. A wyse mā wyll nat be deceyued nor he can nat be deceyued.</p>
+               <p>It is y<seg rend="sup">e</seg> {pro}perty of a good man to deceyue no man in his deth.</p>
+               <p>Let thy opiniōs be iudgemētes. Thou shalt nat receiue wandrīg thoughtes lyke vnto a dreme,
+<pb facs="tcp:10456:6"/>wherin yf thy mynde delite, whā thou set all thinges in due ordre thou shalt remayne heuy, but let thy thought be stable &amp; certeyne, whether it take auysemēt: or els do enquere, or be incontempla<g ref="char:EOLhyphen"/>cion, let it nat desseuer frō truth. Let nat thy wordes be vayn: but eyther gyue coūsell or monition, or els gyue consolacion or teche. Prayse other moderately, repro<g ref="char:EOLhyphen"/>ue them lesse. For ouer muche prayse is lykewyse reprouable, as ouer muche reproche, for that is suspect with flatery, this with malyce. Bere wytnes to the truthe &amp; nat to frendshyp. Promyse with cōsyderacyon, per<g ref="char:EOLunhyphen"/>forme more thā thou dyd {pro}mise. Yf thy wyt be prudēt let it be or<g ref="char:EOLhyphen"/>dred by thre tymes, set in ordre
+<pb facs="tcp:10456:7"/>thinges present, remembre thyn<g ref="char:EOLhyphen"/>ges paste, prouyde for thynges to come, for he y<seg rend="sup">t</seg> hath no cōsyde<g ref="char:EOLhyphen"/>racyon of tyme past, he wyll lose his lyfe. He y<seg rend="sup">t</seg> dothe nat remēbre before of tyme to come, he falleth into all daungers at vnwares. Set before thyne eyes euyl chaū<g ref="char:EOLunhyphen"/>ces to come, &amp; also good, so that thou may sustayne them and mo<g ref="char:EOLunhyphen"/>derately take these.</p>
+               <p>Be nat alwaye in actuall besy<g ref="char:EOLhyphen"/>nes, but somtyme gyue rest vnto thy mynde, &amp; let that rest be full of wysdom, study and good yma<g ref="char:EOLunhyphen"/>gynacyon and thoughtes.</p>
+               <p>For a prudent mā neuer wasteth tyme in ydelnes, for he hath som<g ref="char:EOLunhyphen"/>tyme his mynde relaxed, but ne<g ref="char:EOLhyphen"/>uer fully secluded, he makes spe<g ref="char:EOLhyphen"/>dy slouthfull thynges, he dispat<g ref="char:EOLhyphen"/>cheth doubtfull, he mollefyeth
+<pb facs="tcp:10456:8"/>thynges of dyfficulte, he qualy<g ref="char:EOLhyphen"/>fyeth thynges y<seg rend="sup">t</seg> be hye &amp; hard to attayne to, for he knoweth what waye he shulde goo to worke, he seeth lyghtyly euery particuler, and distintly all.</p>
+               <p>The counsel of expert men exte<g ref="char:EOLhyphen"/>meth darke thynges be suche as be open, of lytell great thynges: of nye thynges far distaunt, of y<seg rend="sup">e</seg> partes the hole.</p>
+               <p>Let nat y<seg rend="sup">e</seg> auctoryte of him y<seg rend="sup">t</seg> spe<g ref="char:EOLhyphen"/>keth moue y<seg rend="sup">e</seg>, &amp; regarde nat who speketh, but what he sayth.</p>
+               <p>Nor regarde nat thou to howe many thou mayst please, but to suche as thou thynkes necessary Seke for that thīge which thou mayst fynde.</p>
+               <p>Lerne that whiche thou mayste vnderstande.</p>
+               <p>Wysshe for y<seg rend="sup">e</seg> thyng which thou
+<pb facs="tcp:10456:9"/>mayst wyssh for before honest mē Nor intromitte thy selfe with a thyng aboue thy power, wherin thou standynge muste tremble &amp; quake &amp; ascendynge must fall.</p>
+               <p>Call vnto the holsome counsell whan the welth of this lyfe lau<g ref="char:EOLhyphen"/>gheth vpon the, than as vpon a werglesse or an yse holde thy self &amp; stoppe, nor thou shalt gyue fre liberty to thy self, but loke about y<seg rend="sup">e</seg> whyder y<seg rend="sup">u</seg> must go &amp; howe fer.</p>
+            </div>
+            <div type="part">
+               <head>¶ Of Magnanimite and fortitude.</head>
+               <p>MAgnanimite whiche also is called fortitude, yf it be in y<seg rend="sup">e</seg> herte of a man, he may lyue at ly<g ref="char:EOLunhyphen"/>bertye with great boldnes with<g ref="char:EOLhyphen"/>out feare meryly.</p>
+               <p>It is y<seg rend="sup">e</seg> pro{per}ty of a valyant man nat to be vnstable, but to be con<g ref="char:EOLhyphen"/>stant
+<pb facs="tcp:10456:10"/>in himself, &amp; without feare to like for the ende of his lyfe.</p>
+               <p>There is nothynge els vaylyant in thys worlde, but a stomacke despysynge great thynges.</p>
+               <p>Yf y<seg rend="sup">u</seg> wylte be a manly stomac<g ref="char:EOLhyphen"/>ked man, thou shalt neuer iudge consumely or despyce to be done vnto y<seg rend="sup">e</seg>, thou shalt say of thy ene<g ref="char:EOLhyphen"/>my. He dyd nat hurte me, but he had wyl to hurt, and whan thou seest him in thy daunger, y<seg rend="sup">u</seg> shalt thynke sufficient punyshement y<seg rend="sup">t</seg> thou was able to punysshe hym. Be thou assured y<seg rend="sup">t</seg> it is honest &amp; a great maner of punysshement to forgyue and pardon.</p>
+               <p>Desyre to whyster with no man, hate no mā, go plainly to worke. Cātende with no mā: except thou gyue hī warnige, for it becometh a coward to vse fraude &amp; deceyt.
+<pb facs="tcp:10456:11"/>Thou shalt be a valiāt stomac<g ref="char:EOLhyphen"/>ked mā, yf thou neyther appetite pels, lyke a mad hardy man: nor dred as a coward, for nothīg ma<g ref="char:EOLunhyphen"/>keth a coward hert but y<seg rend="sup">e</seg> remors of a mans lyfe worthy re{pre}hensiō Therfore the measure of mag<g ref="char:EOLhyphen"/>nanimite is that a man shulde neyther be a cowarde, nor yet madde hardy.</p>
+            </div>
+            <div type="part">
+               <head>¶ Of Temperaunce.</head>
+               <p>YF thou desyre tēperans cut away all superstayte, &amp; bry<g ref="char:EOLhyphen"/>ble in thy defyres w<seg rend="sup">t</seg> in thy mynd cōsyder to thy selfe what nature requireth, and nat what sensuall concupyseens appeteth. Yf thou be a cōtinent man thou shalte come to this poynt y<seg rend="sup">t</seg> thou shalte be cōtent with thy self, for he that is satisfyed with him self he is borne with ryches.
+<pb facs="tcp:10456:12"/>Put a brydel &amp; a measure to thy concupiscence. And cast awaye y<seg rend="sup">e</seg> thynges that drawe thy mynde with secrete pleasure.</p>
+               <p>Eate without surfet.</p>
+               <p>Drynke without dronkennes.</p>
+               <p>Take hede y<seg rend="sup">t</seg> thou be nat sene to accuse, nother at the table nor in no other cōpany of this life, such men as thou dost nat folow, nor thou shalt be fyxed vpon pleasu<g ref="char:EOLhyphen"/>res present, nor thou shalt desyre delycates that lacketh.</p>
+               <p>Let thy liuing be of lyght repast nor come nat for wāton pleasure but for desyre of mete, let hungre moue thy appetyte and nat saue<g ref="char:EOLunhyphen"/>ry sauces.</p>
+               <p>Redeme thy wanton desyres for a lytell for thus y<seg rend="sup">u</seg> muste regarde y<seg rend="sup">t</seg> they may ceasse, &amp; as for an ex<g ref="char:EOLhyphen"/>ample made, thou man after the
+<pb facs="tcp:10456:13"/>lykenes of god hye the to de{per}te as fast as thou can fro bodily de<g ref="char:EOLunhyphen"/>syre to spirituall.</p>
+               <p>Yf thou intende to be contynēt, dwel nat pleasātly but holsomly nor wyl nat the owner to be kno<g ref="char:EOLhyphen"/>wen by his house, but the house by his owner.</p>
+               <p>Take nat vpon y<seg rend="sup">e</seg> y<seg rend="sup">t</seg> state whiche thou shalte neuer come to, nor y<seg rend="sup">t</seg> thou arte in, nor more than thou arte, wyll nat to be taken.</p>
+               <p>Obserue this of more weyght y<seg rend="sup">t</seg> thy pouerty be nat filthy, nor thy sauynge &amp; sparyng vyle, nor thy sīplicite &amp; playnes neglecte, nor thy softnes &amp; gentilnes be stepy, &amp; though y<seg rend="sup">u</seg> haue but small sub<g ref="char:EOLhyphen"/>stās yet let nat it be streitly vsed Nother sorow thyn own fortune nor prayse an other mannes.</p>
+               <p>Yf thou loue cōtinens fle al vyl<g ref="char:EOLhyphen"/>lany
+<pb facs="tcp:10456:14"/>before it chaunce, nor feare any man more than thy selfe.</p>
+               <p>Thynke y<seg rend="sup">t</seg> all thyng may be suf<g ref="char:EOLhyphen"/>fred, but vylany &amp; disshonesty. Abstayne euer fro wordes of ry<g ref="char:EOLhyphen"/>baldy, for a tongue euer lyberall noryssheth folly.</p>
+               <p>Loue rather wordes profytable, than eloquent &amp; pleasant, ryght wordes than flatterynge.</p>
+               <p>Thou shalt somtyme myxt with sadnes thy mery ges<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es but tem<g ref="char:EOLhyphen"/>peratly &amp; w<seg rend="sup">t</seg>out hart of thy dig<g ref="char:EOLhyphen"/>nyte &amp; honesty, for laughynge is re{pro}uable, yf it be out of measure yf lyke a chylde it is effuse &amp; wā<g ref="char:EOLhyphen"/>ton, yf lyke a woman folyshe.</p>
+               <p>Laughynge maketh a man ha<g ref="char:EOLhyphen"/>ted whether it be proude, hye or malycious, or preuy, or ryse of other mens hurt.</p>
+               <p>Yf thou require those mery con<g ref="char:EOLhyphen"/>ceytes,
+<pb facs="tcp:10456:15"/>vse them with y<seg rend="sup">e</seg> grauyte of wysdome, so y<seg rend="sup">t</seg> they put nat y<seg rend="sup">e</seg> to greuās as a capious mā, nor make the despised as a vyllayne Vse nat scoffīg but gentil maner Let thy mery sayng{is} be without detractiō, thy borde without vyl<g ref="char:EOLhyphen"/>lany, thy laughīge w<seg rend="sup">t</seg>out mocke thy speche without loude noyce, thy goyng without tramplyng, thy rest without slouthe, &amp; whan it is had in derision by other, be thou occupied about some stable thynge and honest.</p>
+               <p>Yf y<seg rend="sup">u</seg> be a cōtynent man, auoyde flattery, &amp; let it be as paynfull to y<seg rend="sup">e</seg> to be praysed of leude &amp; inho<g ref="char:EOLhyphen"/>nest {per}sons, as yf thou be praysed for leude and inhonest dedes.</p>
+               <p>Be more ioious &amp; glade whan y<seg rend="sup">u</seg> displeases euyl {per}sons, and take the euyl iugemētes of other tou<g ref="char:EOLhyphen"/>chinge
+<pb facs="tcp:10456:16"/>y<seg rend="sup">u</seg> as a true prayse of the. It is a very harde worke of con<g ref="char:EOLhyphen"/>tynens, to repell the payntynge glose of flatterynges: whose wor<g ref="char:EOLunhyphen"/>des resolue y<seg rend="sup">e</seg> hert with pleasure Allure nat the loue of any mā by flatery nor set nat open y<seg rend="sup">e</seg> way by y<seg rend="sup">t</seg> mene to get y<seg rend="sup">e</seg> loue or frēdshyp. Thou shalte nat be mad hardy, nor {pre}sumptuos submyt thy selfe and stowpe nat lowe, but kepe a meane grauite.</p>
+               <p>Be aduertysed with good wyll, and take rebuke paciently.</p>
+               <p>Yf any man chyde y<seg rend="sup">e</seg> with cause, be y<seg rend="sup">u</seg> assured y<seg rend="sup">t</seg> he dothe {pro}fet the. Yf so be without thanke that he wylleth thy profet.</p>
+               <p>Thou shalt nat fear sharpe wor<g ref="char:EOLhyphen"/>des, but drede fayre wordes.</p>
+               <p>Be thou a fleer frō vyce, &amp; be nat ouer besy a sercher of other mes<g ref="char:EOLunhyphen"/>vyce
+<pb facs="tcp:10456:17"/>nor a roughe checker, but a correcter without reproche, so y<seg rend="sup">t</seg> thou preuent thy challenge with mery coūtenaūce, &amp; pardon gen<g ref="char:EOLhyphen"/>tylly y<seg rend="sup">e</seg> fauter, nor prayse any mā to hye, nor disprayse to sore.</p>
+               <p>Be thou a styll and sylent herer of suche as do speke, &amp; a quycke and redy taker.</p>
+               <p>Make vnsure lyghtly to hym y<seg rend="sup">t</seg> demaūdeth any thynge of the, be leue hym that setteth nought by casuall chaūces, defēde nat brau lynge of contencyon.</p>
+               <p>Yf thou be a contynent man, re<g ref="char:EOLhyphen"/>garde the mouynges and afflic<g ref="char:EOLhyphen"/>tions of thy soule and body, that they be nat out of ordre, nor ther fore do nat set lyght by them be<g ref="char:EOLhyphen"/>cause they be vnknowen, for it forseth nat yf no man se thē whā thou thy selfe seest them.</p>
+               <pb facs="tcp:10456:18"/>
+               <p> Be actyue &amp; styrrynge but nat of lyght fashyon, constant, but nat obstynate. Let it nat be vnkno<g ref="char:EOLhyphen"/>wen nor greuous to the y<seg rend="sup">t</seg> y<seg rend="sup">u</seg> hast nat knowledge of any thynge.</p>
+               <p>Charysshe al y<seg rend="sup">t</seg> be thy peres. Dis<g ref="char:EOLunhyphen"/>dayne nat thy iteriours by pride Caste nat awaye thy superiours that lyueth vpryght.</p>
+               <p>In requiring a good surne shew nat thy self negligēt nor cōtracy be nat an exactor of another mā.</p>
+               <p>Be lyberall to euery man.</p>
+               <p>To no man flatterynge.</p>
+               <p>Famylyer but to fewe.</p>
+               <p>Equall to all men.</p>
+               <p>Be more ernestfull in iugement, thā in cōmuny cacyon, in thy lyfe thā in thy coūtenans be a shewer of good fame by other and nat a bragger of thyne owne, nor enuy ous of other mennes fame.</p>
+               <pb facs="tcp:10456:19"/>
+               <p> Be nat lyght of credens to nowe reysed tales, nor crymes, nor sus<g ref="char:EOLhyphen"/>picious, nor malynge no man.</p>
+               <p>Slacke and flowe to Ire.</p>
+               <p>Prone inclyned to mercy.</p>
+               <p>Stable in aduersite.</p>
+               <p>Ware and humble in {pro}sperite.</p>
+               <p>And hyder of vertue as other be of vyce.</p>
+               <p>Be a dispyser of vayne glorye, &amp; no besy bragger of the vertues with the which thou art endued Dispyce no mannes folly &amp; yg<g ref="char:EOLhyphen"/>norans, be thou of fewe wordes, but suffre other to speke.</p>
+               <p>Be sharpe but nat cruel, nor dis<g ref="char:EOLhyphen"/>pyse hym that is mery.</p>
+               <p>Be desyrous of wysdome &amp; apte to lerne it.</p>
+               <p>Men lerne whan they teache.</p>
+               <p>Be content to departe to a man wyllynge to lerne suche thynges
+<pb facs="tcp:10456:20"/>as thou knowest without arro<g ref="char:EOLhyphen"/>gans and pryde.</p>
+               <p>Disere to haue knowledge of such thiges which thou knowelt nat w<seg rend="sup">t</seg>out concelemēt of thy ignorās Led no wyse man distrouble the cōmen custome, nor turne y<seg rend="sup">e</seg> peo<g ref="char:EOLhyphen"/>ple to hym by newe fangied ly<g ref="char:EOLhyphen"/>uynge.</p>
+            </div>
+            <div type="part">
+               <head>¶ Of Iustyce.</head>
+               <p>WHat is iustice? but a secret cōpacte of nature, inuēted for the ayde of many, &amp; what is iustyce, but a constitution &amp; law of our mynde, but also it is the lawe of god &amp; the bande of y<seg rend="sup">e</seg> cō<g ref="char:EOLhyphen"/>pany of men togyther.</p>
+               <p>In this iustice is nothynge y<seg rend="sup">t</seg> we may estime what is {per}fet &amp; expe<g ref="char:EOLhyphen"/>dient, it is expediēt for the what so euer she commandeth.</p>
+               <p>Therfore who so euer thou be y<seg rend="sup">t</seg>
+                  <pb facs="tcp:10456:21"/>desyres iustice fyrste drede god &amp; loue hī &amp; y<seg rend="sup">u</seg> shalt be loued of god. For y<seg rend="sup">u</seg> shalt loue god yf y<seg rend="sup">u</seg> folowe hī in this poynt, y<seg rend="sup">t</seg> thou arte wyl<g ref="char:EOLhyphen"/>lyng to helpe al mē &amp; hurt no mā And than they shal cal the a iust man, all men shall folowe the worshyp and loue the.</p>
+               <p>For yf thou wylte be a iust man, thou shalte nat onely do wronge but also resist them y<seg rend="sup">t</seg> do wronge for it is nat iustice to do no wrōg but to obstayne frō other mens goodes.</p>
+               <p>Therfore begyn with these that thou take awaye nothynge that thou may be auaunsed to better fortune and y<seg rend="sup">t</seg> thou may restore thynges taken fro other.</p>
+               <p>And chastice and brydel robbers and reuers, leste they shulde be dradde of other.</p>
+               <pb facs="tcp:10456:22"/>
+               <p> Intromeddle no trauers or no doutful cōmunicaciō but regard the qualtie of the mynde of a mā it forseth nat to the wheder thou afferme or denye.</p>
+               <p>Wher so euer cōmunycation is had of y<seg rend="sup">e</seg> truth: knowe thou for a suerty y<seg rend="sup">e</seg> mater touche fidelyte &amp; dred of god, for yf god be called to wytnes &amp; be nat wytnes to hī y<seg rend="sup">t</seg> takes hī to wytues, yet y<seg rend="sup">u</seg> shall nat ouerslyp the truth, lest thou passe the lawe of iustice.</p>
+               <p>Yf so be thou be cōpelled to vse a lye, vse it nat to y<seg rend="sup">e</seg> mayntenans of falshed, but to the declaration of the truthe.</p>
+               <p>And if it chaūce y<seg rend="sup">e</seg> truth to be re<g ref="char:EOLhyphen"/>demed by a lye, y<seg rend="sup">u</seg> shalte make no lye but be excused, for where the cause is honest, a iust man dothe nat disclose y<seg rend="sup">e</seg> secrety, for he cōce<g ref="char:EOLhyphen"/>leth
+<pb facs="tcp:10456:23"/>thynges to be hyd, &amp; speketh y<seg rend="sup">t</seg> shulde be spoken, &amp; so euydent &amp; sure tranquilite chaūceth to hī so y<seg rend="sup">t</seg> whan other be conuinced of theyr euyl doynges, they are cō<g ref="char:EOLhyphen"/>uynced by that euyll.</p>
+               <p>Therfore yf y<seg rend="sup">u</seg> endeuer thy selfe to stude &amp; exercise these thynges thou mery &amp; without feare shall loke for thyne ende, yf thou fore casteth these thinges, in heuines troblous, thou shalte contynue mery, quyet, manly, and surely.</p>
+            </div>
+            <div type="part">
+               <head>¶ Of measure and mode<g ref="char:EOLhyphen"/>rate prudens.</head>
+               <p>THerfore these preceptes ob<g ref="char:EOLhyphen"/>serued y<seg rend="sup">e</seg>. iiii. kyndes of ver<g ref="char:EOLunhyphen"/>tues shal make y<seg rend="sup">e</seg> a mā, yf y<seg rend="sup">u</seg> kepe a measure of y<seg rend="sup">e</seg> streitnes of them, by an equal lyne of lyuing, for if prudens do excede his boundes
+<pb facs="tcp:10456:24"/>thou shalt cōmyt crafty &amp; drede<g ref="char:EOLhyphen"/>ful thiges, y<seg rend="sup">u</seg> shalte be declared &amp; noted a seker of secret as sercher of al maner of fautes, thou shalt be noted fearfull suspicious &amp; a marke of other mennes dedes.</p>
+               <p>Euery inquisitiue of some thing euer dredyng some thynge, euer doutynge some thyng, and thou shalte enprynt the subtyll suspe<g ref="char:EOLhyphen"/>cious therof to y<seg rend="sup">e</seg> concepte of thy mynde: thou shalte be shewed with the ty<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ger of crafte, muta<g ref="char:EOLhyphen"/>ble, and an ennemy of playnes a noter of fautes and to cōclude thou shalte be called of all men after one name a noughty man. Therfore inmesurable prudens wyl led y<seg rend="sup">e</seg> into these dyshonesties who so euer doth remayn in this mesurable balans, shall haue no leude nor crafty fashyon.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:10456:25"/>
+               <head>¶ Of moderate for<g ref="char:EOLhyphen"/>titude.</head>
+               <p>YF Magnanimite auaunce hym selfe beyonde his bon<g ref="char:EOLhyphen"/>des, it maketh a mā mauassynge and malycyous.</p>
+               <p>Inflate with pryde, troublous hasty to all excellent of wordes &amp; dedes, all hasty forgotten, which at euery minute of an hour twyt cheth vp his browes lyke a beest for he troubbeleth quietnes, stry<g ref="char:EOLhyphen"/>keth this mā, chaseth away y<seg rend="sup">t</seg> mā But thoughe he be a mad hardy warryour, natwithstandynge he is nat of power to bere many thi<g ref="char:EOLunhyphen"/>ges y<seg rend="sup">t</seg> be aboue his power, but ey<g ref="char:EOLunhyphen"/>ther he longeth for a myserable ende, or els a sorofull memory of hym. Therfore y<seg rend="sup">e</seg> mesure of mag<g ref="char:EOLunhyphen"/>nanimite &amp; manhed, is nat to be a coward mā nor yet mad hardy</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:10456:26"/>
+               <head>¶ Of moderate tem<g ref="char:EOLunhyphen"/>perans.</head>
+               <p>LEt temperans also kepe hī self within this bondes. Be ware y<seg rend="sup">t</seg> thou be nat sparige, nor close nat thy hande negardly sus<g ref="char:EOLhyphen"/>picyously nor dredfull.</p>
+               <p>Set no glas nor regard ī a half peny and tryflynge matters.</p>
+               <p>For suche &amp; so deuyded integrite is accompted lytel worth.</p>
+               <p>Therfore by this lyne of mesure and temperans y<seg rend="sup">u</seg> shalt kepe tem<g ref="char:EOLunhyphen"/>perans, so that thou apere nat a man gyue to pleasure {pro}digall &amp; vicious of body nor by couetyse negardnes apere vyle &amp; leude.</p>
+            </div>
+            <div type="part">
+               <head>¶ The qualyfyenge or mode<g ref="char:EOLhyphen"/>rans of iustyce.</head>
+               <p>IVstyce to cōclude is to be ru<g ref="char:EOLhyphen"/>led with y<seg rend="sup">e</seg> waye of moderans
+<pb facs="tcp:10456:27"/>that by no mocyon lyght, negly<g ref="char:EOLhyphen"/>gens shulde folowe the good fa<g ref="char:EOLhyphen"/>shyon of y<seg rend="sup">t</seg> mynd euer inuariable Haue regarde of correction, but permyt nat licens to offende, nor yet to false flattery, nor reserue any {per}don or mercy to a trespas done with ouer moche crudelite and rygour.</p>
+               <p>Shewe thy selfe with grauite to the company of man.</p>
+               <p>The rule of Iustyce is thus to be obserued, that by reuerence of her instruccion, nother by vyle reputacyon be dispysed, nor by ouer muche lyberty, nor by cruel rygour lese nat the fauoure and loue of men.</p>
+            </div>
+            <div type="part">
+               <head>¶ A peroracyon of cōclusion of these premysses.</head>
+               <pb facs="tcp:10456:28"/>
+               <p> Yf any man desyre 'to passe his lyfe here nat onely for his owne {pro}fet but for the {pro}fet of many to confyrme it is without blame.</p>
+               <p>Let hym folowe thys lytell for<g ref="char:EOLhyphen"/>me of vertues before sayde after the qualite of tymes, places and persons and causes lenynge to that temperans, wherby he may auoyde the depe dytches contra<g ref="char:EOLhyphen"/>ry to the madde hardynes to the ruyne of hys body, or els pu<g ref="char:EOLhyphen"/>nyshe. the cowardnes that cau<g ref="char:EOLhyphen"/>seth it.</p>
+               <trailer>¶ FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:10456:29"/>
+            <p>❧: Thus en<g ref="char:EOLhyphen"/>deth thys lytle worke of <hi>Lu<g ref="char:EOLhyphen"/>cius Anneus Seneca</hi> in Latyn Named <hi>Formula honestae vitae</hi> the Forme &amp; rule of Honest lyuynge and newely Imprinted. At Lō<g ref="char:EOLhyphen"/>don in Fletestrete at the sygne of the George nexte to saynt Dun<g ref="char:EOLhyphen"/>stous church by Wyllyam Myd<g ref="char:EOLunhyphen"/>dylton. In the yere of our Lorde. <hi>M.CCCCC.XLVI.</hi> The .xxi. daye of Iulye.</p>
+            <pb facs="tcp:10456:29"/>
+         </div>
+      </back>
+   </text>
+</TEI>
